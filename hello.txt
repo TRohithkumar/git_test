@@ -4,5 +4,3 @@ Extra text added
 
 More text
 
-
-this is second extra
